@@ -1,0 +1,10 @@
+[
+  {"id":"physics-1","title":"Evaporation","text":"Evaporation is the escape of molecules from a liquid surface into the gas phase. Increasing temperature raises average molecular kinetic energy, so more surface molecules can overcome intermolecular forces and escape."},
+  {"id":"physics-2","title":"Boiling","text":"Boiling occurs throughout a liquid when its vapor pressure reaches the surrounding pressure. Evaporation can occur at temperatures below the boiling point because it is a surface process."},
+  {"id":"ml-1","title":"Retrieval-Augmented Generation","text":"Retrieval-Augmented Generation combines a generative language model with an external retrieval component. Retrieved documents provide supporting context that can be incorporated into the generation step."},
+  {"id":"ml-2","title":"Vector Retrieval","text":"Vector retrieval represents queries and documents as numerical embeddings and ranks documents using a similarity measure. A simple lexical retriever can instead use normalized term overlap or TF-IDF style weighting."},
+  {"id":"ai-1","title":"Monte Carlo Tree Search","text":"Monte Carlo Tree Search explores a decision tree through selection, expansion, simulation, and backpropagation. UCT balances exploitation of high-value actions with exploration of less-visited actions."},
+  {"id":"ai-2","title":"Agentic Retrieval","text":"An agentic retrieval workflow can generate search queries, retrieve evidence, inspect the evidence, and update an intermediate answer. Iterative retrieval is useful when later queries depend on information found in earlier steps."},
+  {"id":"facts-1","title":"Evidence Support","text":"A factuality evaluation can break an answer into atomic statements and compare each statement with retrieved evidence. The proportion of supported statements can be used as a simple factuality score."},
+  {"id":"software-1","title":"FastAPI","text":"FastAPI is a Python framework for building APIs using type hints and Pydantic validation. It can generate OpenAPI documentation automatically and works with ASGI servers such as Uvicorn."}
+]
